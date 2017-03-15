@@ -1,0 +1,6 @@
+K:\_boostNode\GitHub\IN2017\IN2017_Module08\DemoApp_Console\DemoApp_Console\bin\Debug\DemoApp_Console.exe.config
+K:\_boostNode\GitHub\IN2017\IN2017_Module08\DemoApp_Console\DemoApp_Console\bin\Debug\DemoApp_Console.exe
+K:\_boostNode\GitHub\IN2017\IN2017_Module08\DemoApp_Console\DemoApp_Console\bin\Debug\DemoApp_Console.pdb
+K:\_boostNode\GitHub\IN2017\IN2017_Module08\DemoApp_Console\DemoApp_Console\obj\Debug\DemoApp_Console.csprojResolveAssemblyReference.cache
+K:\_boostNode\GitHub\IN2017\IN2017_Module08\DemoApp_Console\DemoApp_Console\obj\Debug\DemoApp_Console.exe
+K:\_boostNode\GitHub\IN2017\IN2017_Module08\DemoApp_Console\DemoApp_Console\obj\Debug\DemoApp_Console.pdb
